@@ -1,0 +1,147 @@
+Code,Description
+001,Société coopérative européenne
+002,Organisme de financement de pensions
+003,Unité TVA
+006,Société coopérative à responsabilité illimitée
+007,"Société coopérative à responsabilité illimitée et solidaire, société coopérative de participation"
+008,Société coopérative à responsabilité limitée
+009,"Société coopérative à responsabilité limitée, coopérative de participation"
+010,Société privée à responsabilité limitée unipersonnelle
+011,Société en nom collectif
+012,Société en commandite simple
+013,Société en commandite par actions
+014,Société anonyme
+015,Société privée à responsabilité limitée
+016,Société coopérative (ancien statut)
+017,Association sans but lucratif
+018,Etablissement d'utilité publique
+019,Mutualité / Société Mutualiste / Union nationale de mutualités
+020,Union professionnelle
+021,Association d'assurances mutuelles / Caisse commune d'assurances de droit privé
+022,Organisation scientifique internationale de droit belge
+023,Association étrangère privée avec établissement en Belgique
+025,Société agricole
+026,Fondation privée
+027,Société européenne (Societas Europaea)
+028,Institution sans but lucratif
+029,Fondation d'utilité publique
+030,Entité étrangère
+040,Société congolaise (loi de 1927)
+051,Autre forme de droit privé avec personnalité juridique
+060,Groupement d'intérêt économique
+065,Groupement européen d'intérêt économique
+070,Association des copropriétaires
+106,Société coopérative à responsabilité illimitée de droit public
+107,"Coopérative à responsabilité illimitée, coopérative de participation, de droit public"
+108,Société coopérative à responsabilité limitée de droit public
+109,"Société coopérative à responsabilité limitée, coopérative de participation, de droit public"
+110,"État, Province, Région, Communauté"
+114,Société anonyme de droit public
+116,Société coopérative de droit public (ancien statut)
+117,Association sans but lucratif de droit public
+121,Association d'assurances mutuelles de droit public
+123,Corporation professionnelle / Ordre
+124,Etablissement public
+125,Association internationale sans but lucratif
+126,Centre public d'action sociale
+127,Monts-de-Piété
+128,Temporel des cultes / Établissement cultuel public
+129,Polder / wateringue
+151,Autre forme légale
+155,Zone de police locale
+160,Organisme public étranger ou international
+200,Société en formation
+206,Société civile sous forme de société coopérative à responsabilité illimitée
+208,Société civile sous forme de société coopérative à responsabilité limitée
+211,Société civile sous forme de société en nom collectif
+212,Société civile sous forme de société en commandite simple
+213,Société civile sous forme de société en commandite par actions
+214,Société civile sous forme de société anonyme
+215,Société civile sous forme de société privée à responsabilité limitée
+217,Parti politique européen
+218,Fondation politique européenne
+225,Société civile sous forme de société agricole
+230,Entité étrangère avec un bien immobilier en Belgique (avec personnalité juridique)
+235,Entité étrangère sans établissement belge avec représentant responsable TVA
+260,Groupement d'intérêt économique sans siège avec établissement en Belgique
+265,Groupement européen d'intérêt économique sans siège avec établissement en Belgique
+301,Service public fédéral
+302,Service public fédéral de programmation
+303,Autre service fédéral
+310,Autorité de la Région flamande et de la Communauté flamande
+320,Autorité de la Région wallonne
+325,Association internationale sans but lucratif de droit public
+330,Autorité de la Région de Bruxelles-Capitale
+340,Autorité de la Communauté française
+350,Autorité de la Communauté germanophone
+370,Ministère des Affaires économiques
+371,"Ministère des Affaires étrangères, Commerce extérieur et Coopération au Développement"
+372,Ministère de l'Agriculture
+373,Ministère des Classes moyennes
+374,Ministère des Communications
+375,Ministère de la Défense
+376,Ministère de l'Éducation nationale et de la Culture
+377,Ministère de l'Emploi et du Travail
+378,Ministère des Finances
+379,Ministère de l'Intérieur
+380,Ministère de la Justice
+381,Ministère de la Prévoyance sociale
+382,Ministère de la Santé publique et de la Famille
+383,Services du Premier Ministre
+384,Ministère des Communications et de l'Infrastructure
+385,Ministère de la Communauté flamande
+386,Ministère de la Communauté française
+387,Ministère de la Région de Bruxelles-Capitale
+388,Ministère de la Région wallonne
+389,Ministère de la Communauté germanophone
+390,Ministère de la Fonction publique
+391,Ministère des Classes moyennes et de l'Agriculture
+392,"Ministère des Affaires sociales, de la Santé publique et de l'Environnement"
+393,Divers
+400,Autorité provinciale
+401,Organisme immatriculé par l'ONSS-APL
+411,Ville / commune
+412,Centre public d'action sociale
+413,Zone de police locale
+414,Intercommunale
+415,Association de projet
+416,Association prestataire de services (Région flamande)
+417,Association chargée de mission (Région flamande)
+418,Régie communale autonome
+419,Régie provinciale autonome
+420,Association de CPAS
+421,Prézone
+422,Zone de secours
+451,Organismes immatriculés pour l'O.N.P.
+452,Organisme immatriculé pour l'Administration des Pensions
+453,Société étrangère sans établissement belge cotée en bourse
+454,Entité étrangère avec un bien immobilier en Belgique (sans personnalité juridique)
+506,Société coopérative à responsabilité illimitée à finalité sociale
+508,Société coopérative à responsabilité limitée à finalité sociale
+510,Société privée à responsabilité limitée unipersonnelle à finalité sociale
+511,Société en nom collectif à finalité sociale
+512,Société en commandite simple à finalité sociale
+513,Société en commandite par actions à finalité sociale
+514,Société anonyme à finalité sociale
+515,Société privée à responsabilité limitée à finalité sociale
+560,Groupement d'intérêt économique à finalité sociale
+606,Société coopérative à responsabilité illimitée et à finalité sociale
+608,Société coopérative à responsabilité limitée à finalité sociale
+610,Société à responsabilité limitée
+612,Société en commandite
+614,Société anonyme à finalité sociale
+616,Société à responsabilité limitée de droit public
+617,Société en commandite de droit public
+651,Autre forme à finalité sociale de droit public
+701,Société commerciale irrégulière
+702,Société de droit commun
+703,Société momentanée
+704,Société interne
+706,Société coopérative
+716,Société coopérative de droit public
+721,Société ou association sans personnalité juridique
+722,Association momentanée
+723,Association de frais
+724,Syndicat
+790,Divers sans personnalité juridique
+999,Forme légale inconnue (ONSS)

@@ -1,0 +1,107 @@
+Count(Distinct enterprise.EnterpriseNumber),JuridicalForm,Category,Description,Code
+773045,,,,
+7,1.0,JuridicalForm,Société coopérative européenne,001
+139,2.0,JuridicalForm,Organisme de financement de pensions,002
+8320,3.0,JuridicalForm,Unité TVA,003
+2862,6.0,JuridicalForm,Société coopérative à responsabilité illimitée,006
+2,7.0,JuridicalForm,"Société coopérative à responsabilité illimitée et solidaire, société coopérative de participation",007
+4111,8.0,JuridicalForm,Société coopérative à responsabilité limitée,008
+10,9.0,JuridicalForm,"Société coopérative à responsabilité limitée, coopérative de participation",009
+24888,11.0,JuridicalForm,Société en nom collectif,011
+16182,12.0,JuridicalForm,Société en commandite simple,012
+342,13.0,JuridicalForm,Société en commandite par actions,013
+80675,14.0,JuridicalForm,Société anonyme,014
+86541,15.0,JuridicalForm,Société privée à responsabilité limitée,015
+7189,16.0,JuridicalForm,Société coopérative (ancien statut),016
+139213,17.0,JuridicalForm,Association sans but lucratif,017
+173,18.0,JuridicalForm,Etablissement d'utilité publique,018
+1678,19.0,JuridicalForm,Mutualité / Société Mutualiste / Union nationale de mutualités,019
+1283,20.0,JuridicalForm,Union professionnelle,020
+60,21.0,JuridicalForm,Association d'assurances mutuelles / Caisse commune d'assurances de droit privé,021
+790,22.0,JuridicalForm,Organisation scientifique internationale de droit belge,022
+32,23.0,JuridicalForm,Association étrangère privée avec établissement en Belgique,023
+376,25.0,JuridicalForm,Société agricole,025
+2245,26.0,JuridicalForm,Fondation privée,026
+13,27.0,JuridicalForm,Société européenne (Societas Europaea),027
+1,28.0,JuridicalForm,Institution sans but lucratif,028
+732,29.0,JuridicalForm,Fondation d'utilité publique,029
+67576,30.0,JuridicalForm,Entité étrangère,030
+5,40.0,JuridicalForm,Société congolaise (loi de 1927),040
+244,51.0,JuridicalForm,Autre forme de droit privé avec personnalité juridique,051
+134,60.0,JuridicalForm,Groupement d'intérêt économique,060
+268,65.0,JuridicalForm,Groupement européen d'intérêt économique,065
+108445,70.0,JuridicalForm,Association des copropriétaires,070
+9,108.0,JuridicalForm,Société coopérative à responsabilité limitée de droit public,108
+4,110.0,JuridicalForm,"État, Province, Région, Communauté",110
+76,114.0,JuridicalForm,Société anonyme de droit public,114
+38,116.0,JuridicalForm,Société coopérative de droit public (ancien statut),116
+27,117.0,JuridicalForm,Association sans but lucratif de droit public,117
+24,123.0,JuridicalForm,Corporation professionnelle / Ordre,123
+4870,124.0,JuridicalForm,Etablissement public,124
+2502,125.0,JuridicalForm,Association internationale sans but lucratif,125
+1,127.0,JuridicalForm,Monts-de-Piété,127
+332,129.0,JuridicalForm,Polder / wateringue,129
+279,151.0,JuridicalForm,Autre forme légale,151
+361,160.0,JuridicalForm,Organisme public étranger ou international,160
+7,217.0,JuridicalForm,Parti politique européen,217
+5,218.0,JuridicalForm,Fondation politique européenne,218
+3898,230.0,JuridicalForm,Entité étrangère avec un bien immobilier en Belgique (avec personnalité juridique),230
+12149,235.0,JuridicalForm,Entité étrangère sans établissement belge avec représentant responsable TVA,235
+6,265.0,JuridicalForm,Groupement européen d'intérêt économique sans siège avec établissement en Belgique,265
+12,301.0,JuridicalForm,Service public fédéral,301
+2,302.0,JuridicalForm,Service public fédéral de programmation,302
+47,303.0,JuridicalForm,Autre service fédéral,303
+43,310.0,JuridicalForm,Autorité de la Région flamande et de la Communauté flamande,310
+8,320.0,JuridicalForm,Autorité de la Région wallonne,320
+2,325.0,JuridicalForm,Association internationale sans but lucratif de droit public,325
+10,330.0,JuridicalForm,Autorité de la Région de Bruxelles-Capitale,330
+14,340.0,JuridicalForm,Autorité de la Communauté française,340
+7,350.0,JuridicalForm,Autorité de la Communauté germanophone,350
+2,370.0,JuridicalForm,Ministère des Affaires économiques,370
+1,371.0,JuridicalForm,"Ministère des Affaires étrangères, Commerce extérieur et Coopération au Développement",371
+1,373.0,JuridicalForm,Ministère des Classes moyennes,373
+60,379.0,JuridicalForm,Ministère de l'Intérieur,379
+1,380.0,JuridicalForm,Ministère de la Justice,380
+1,383.0,JuridicalForm,Services du Premier Ministre,383
+4,385.0,JuridicalForm,Ministère de la Communauté flamande,385
+5,386.0,JuridicalForm,Ministère de la Communauté française,386
+1,387.0,JuridicalForm,Ministère de la Région de Bruxelles-Capitale,387
+6,388.0,JuridicalForm,Ministère de la Région wallonne,388
+3,393.0,JuridicalForm,Divers,393
+16,400.0,JuridicalForm,Autorité provinciale,400
+565,411.0,JuridicalForm,Ville / commune,411
+567,412.0,JuridicalForm,Centre public d'action sociale,412
+186,413.0,JuridicalForm,Zone de police locale,413
+20,414.0,JuridicalForm,Intercommunale,414
+73,415.0,JuridicalForm,Association de projet,415
+26,416.0,JuridicalForm,Association prestataire de services (Région flamande),416
+54,417.0,JuridicalForm,Association chargée de mission (Région flamande),417
+299,418.0,JuridicalForm,Régie communale autonome,418
+26,419.0,JuridicalForm,Régie provinciale autonome,419
+124,420.0,JuridicalForm,Association de CPAS,420
+33,422.0,JuridicalForm,Zone de secours,422
+122,451.0,JuridicalForm,Organismes immatriculés pour l'O.N.P.,451
+19,452.0,JuridicalForm,Organisme immatriculé pour l'Administration des Pensions,452
+200,453.0,JuridicalForm,Société étrangère sans établissement belge cotée en bourse,453
+38,454.0,JuridicalForm,Entité étrangère avec un bien immobilier en Belgique (sans personnalité juridique),454
+4,506.0,JuridicalForm,Société coopérative à responsabilité illimitée à finalité sociale,506
+110,508.0,JuridicalForm,Société coopérative à responsabilité limitée à finalité sociale,508
+1,511.0,JuridicalForm,Société en nom collectif à finalité sociale,511
+9,512.0,JuridicalForm,Société en commandite simple à finalité sociale,512
+1,513.0,JuridicalForm,Société en commandite par actions à finalité sociale,513
+10,514.0,JuridicalForm,Société anonyme à finalité sociale,514
+34,515.0,JuridicalForm,Société privée à responsabilité limitée à finalité sociale,515
+4,560.0,JuridicalForm,Groupement d'intérêt économique à finalité sociale,560
+493384,610.0,JuridicalForm,Société à responsabilité limitée,610
+47352,612.0,JuridicalForm,Société en commandite,612
+82,616.0,JuridicalForm,Société à responsabilité limitée de droit public,616
+1,617.0,JuridicalForm,Société en commandite de droit public,617
+1,651.0,JuridicalForm,Autre forme à finalité sociale de droit public,651
+18,702.0,JuridicalForm,Société de droit commun,702
+1753,706.0,JuridicalForm,Société coopérative,706
+6,716.0,JuridicalForm,Société coopérative de droit public,716
+27737,721.0,JuridicalForm,Société ou association sans personnalité juridique,721
+35,722.0,JuridicalForm,Association momentanée,722
+1,724.0,JuridicalForm,Syndicat,724
+5,790.0,JuridicalForm,Divers sans personnalité juridique,790
+931,999.0,JuridicalForm,Forme légale inconnue (ONSS),999
